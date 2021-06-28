@@ -1,0 +1,13 @@
+C:\Users\vitor\Documents\GitHub\DIO_series\bin\Debug\netcoreapp3.1\DIO_series.exe
+C:\Users\vitor\Documents\GitHub\DIO_series\bin\Debug\netcoreapp3.1\DIO_series.deps.json
+C:\Users\vitor\Documents\GitHub\DIO_series\bin\Debug\netcoreapp3.1\DIO_series.runtimeconfig.json
+C:\Users\vitor\Documents\GitHub\DIO_series\bin\Debug\netcoreapp3.1\DIO_series.runtimeconfig.dev.json
+C:\Users\vitor\Documents\GitHub\DIO_series\bin\Debug\netcoreapp3.1\DIO_series.dll
+C:\Users\vitor\Documents\GitHub\DIO_series\bin\Debug\netcoreapp3.1\DIO_series.pdb
+C:\Users\vitor\Documents\GitHub\DIO_series\obj\Debug\netcoreapp3.1\DIO_series.csprojAssemblyReference.cache
+C:\Users\vitor\Documents\GitHub\DIO_series\obj\Debug\netcoreapp3.1\DIO_series.AssemblyInfoInputs.cache
+C:\Users\vitor\Documents\GitHub\DIO_series\obj\Debug\netcoreapp3.1\DIO_series.AssemblyInfo.cs
+C:\Users\vitor\Documents\GitHub\DIO_series\obj\Debug\netcoreapp3.1\DIO_series.csproj.CoreCompileInputs.cache
+C:\Users\vitor\Documents\GitHub\DIO_series\obj\Debug\netcoreapp3.1\DIO_series.dll
+C:\Users\vitor\Documents\GitHub\DIO_series\obj\Debug\netcoreapp3.1\DIO_series.pdb
+C:\Users\vitor\Documents\GitHub\DIO_series\obj\Debug\netcoreapp3.1\DIO_series.genruntimeconfig.cache
